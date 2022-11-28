@@ -1,0 +1,124 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "img": "https://s.cornershopapp.com/product-images/3006137.jpg?versionId=RkDIkbJoIEwzVGFLZ.5og1Dh2guUKb.0",
+      "type": "Harinas",
+      "name": "Maizena",
+      "weight": "1kg",
+      "priceNow": 4000,
+      "priceOld": 4500,
+      "isFavorite": false,
+      "isToBuy": false,
+      "itemsToBuy": 0
+    },
+    {
+      "id": 2,
+      "img": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750302043007L.jpg",
+      "type": "Lácteos",
+      "name": "queso cheddar",
+      "weight": "4kg",
+      "priceNow": 20150,
+      "priceOld": 24300,
+      "isFavorite": false,
+      "isToBuy": false,
+      "itemsToBuy": 0
+    },
+    {
+      "id": 3,
+      "img": "https://exitocol.vtexassets.com/arquivos/ids/12082816/Leche-Entera-Cremosa-En-Bolsa-X-11-Litro-64343_a.jpg?v=637826594324830000",
+      "type": "Lácteos",
+      "name": "Leche",
+      "weight": "1lts",
+      "priceNow": 8500,
+      "priceOld": 16000,
+      "isFavorite": false,
+      "isToBuy": false,
+      "itemsToBuy": 0
+    },
+    {
+      "id": 4,
+      "img": "https://static.merqueo.com/images/products/large/ba98f5ce-09ab-4c49-a4da-2deb878873ef.jpg",
+      "type": "Jugos",
+      "name": "Jugo de Naranja",
+      "weight": "1lts",
+      "priceNow": 3500,
+      "priceOld": 6000,
+      "isFavorite": false,
+      "isToBuy": false,
+      "itemsToBuy": 0
+    },
+    {
+      "id": 5,
+      "img": "https://www.pietran.com.co/wp-content/uploads/2021/11/Salchicha-Pietra%CC%81n-de-Pavo.png",
+      "type": "Embutidos",
+      "name": "Salchicha de pavo",
+      "weight": "1kg",
+      "priceNow": 22500,
+      "priceOld": 30000,
+      "isFavorite": false,
+      "isToBuy": false,
+      "itemsToBuy": 0
+    },
+    {
+      "id": 6,
+      "img": "https://cdn.shopify.com/s/files/1/0492/2458/1274/products/supermercados_la_vaquita_supervaquita_margarina_rama_250g_con_sal_liviana_mantequilla_ymargarina_1_512x512.jpg?v=1626479150",
+      "type": "Lácteos",
+      "name": "Mantequilla",
+      "weight": "1kg",
+      "priceNow": 6000,
+      "priceOld": 9800,
+      "isFavorite": false,
+      "isToBuy": false,
+      "itemsToBuy": 0
+    },
+    {
+      "id": 7,
+      "img": "https://cdn.shopify.com/s/files/1/0492/2458/1274/products/supermercados_la_vaquita_supervaquita_lasagna_zenu_320gr_mixta_congelados_512x512.jpg?v=1620493188",
+      "type": "Pastas",
+      "name": "lasagna mixta",
+      "weight": "1kg",
+      "priceNow": 6500,
+      "priceOld": 11000,
+      "isFavorite": false,
+      "isToBuy": false,
+      "itemsToBuy": 0
+    },
+    {
+      "id": 8,
+      "img": "https://exitocol.vtexassets.com/arquivos/ids/1976744/Ravioli-De-Carne-771125_a.png?v=637259153946800000",
+      "type": "Pastas",
+      "name": "ravioli de carne",
+      "weight": "1kg",
+      "priceNow": 6500,
+      "priceOld": 12500,
+      "isFavorite": false,
+      "isToBuy": false,
+      "itemsToBuy": 0
+    },
+    {
+      "id": 9,
+      "img": "https://exitocol.vtexassets.com/arquivos/ids/5373673/Mortadela-Pollo-X-250g-245125_b.jpg?v=637439179809000000",
+      "type": "Embutidos",
+      "name": "Mortadela de pollo ",
+      "weight": "1kg",
+      "priceNow": 8000,
+      "priceOld": 13500,
+      "isFavorite": false,
+      "isToBuy": false,
+      "itemsToBuy": 0
+    },
+    {
+      "id": 10,
+      "img": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/200773/7707237413902.jpg?v=637814148304800000",
+      "type": "Harinas",
+      "name": "Harina de Trigo",
+      "weight": "1kg",
+      "priceNow": 3000,
+      "priceOld": 5000,
+      "isFavorite": false,
+      "isToBuy": false,
+      "itemsToBuy": 0
+    }
+  ]
+}
